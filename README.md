@@ -15,6 +15,8 @@
      height="50" width="50" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="down" alt="SQLServer"
      height="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+ <img align="down" alt=".NETCore"
+     height="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
 </div>
 
  ##
